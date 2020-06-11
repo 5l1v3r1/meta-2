@@ -25,7 +25,7 @@ cd ..
 cd usr
 cd opt
 cd metasploit-framework
-git clone https://github.com/noob-hackers/bcp
+git clone https://github.com/zahrairshad/bcp
 echo " "
 echo "       <############# Completed #############>"|lolcat
 echo " "
